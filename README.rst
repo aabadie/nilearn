@@ -1,7 +1,12 @@
-.. image:: https://badge.waffle.io/aabadie/nilearn.png?label=ready&title=Ready 
+.. -*- mode: rst -*-
+
+.. image:: https://badge.waffle.io/aabadie/nilearn.png?label=ready&title=Ready
  :target: https://waffle.io/aabadie/nilearn
  :alt: 'Stories in Ready'
-.. -*- mode: rst -*-
+
+ .. image:: https://graphs.waffle.io/aabadie/nilearn/roadmap/throughput.svg
+  :target: https://waffle.io/aabadie/nilearn/roadmap/metrics
+  :alt: 'Throughput Graph'
 
 .. image:: https://travis-ci.org/nilearn/nilearn.svg?branch=master
    :target: https://travis-ci.org/nilearn/nilearn
