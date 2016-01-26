@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/aabadie/nilearn.png?label=ready&title=Ready 
+ :target: https://waffle.io/aabadie/nilearn
+ :alt: 'Stories in Ready'
 .. -*- mode: rst -*-
 
 .. image:: https://travis-ci.org/nilearn/nilearn.svg?branch=master
