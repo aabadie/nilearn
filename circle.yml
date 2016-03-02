@@ -23,7 +23,7 @@ dependencies:
     - source continuous_integration/install.sh:
         environment:
             DISTRIB: "conda"
-            PYTHON_VERSION: "2.7"
+            PYTHON_VERSION: "3.5"
             NUMPY_VERSION: "*"
             SCIPY_VERSION: "*"
             SCIKIT_LEARN_VERSION: "*"
